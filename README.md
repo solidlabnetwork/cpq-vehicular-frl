@@ -1,4 +1,3 @@
----
 # 🛡️CPQ-Vehicular-FRL: Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks
 
 CPQ-Vehicular-FRL is a framework for private and communication-efficient federated reinforcement learning (FRL)
