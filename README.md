@@ -10,7 +10,7 @@ signatures.
 
 ![Architecture](docs/architecture.png)
 
-📘 Paper: arXiv link to be added
+📘 [Read the paper on arXiv](https://arxiv.org/abs/2610.41055)
 
 📦 [Run outputs on Zenodo](https://doi.org/10.5281/zenodo.23693204)
 
@@ -76,6 +76,7 @@ bash figures/make_all.sh --data results/paper/figure_data.json
 @article{salehi2026cpq,
   title={Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks},
   author={Salehi, Hojat Allah and Aras, Devrim and Mia, Md Jueal and Amini, M. Hadi and Karim, Imtiaz and Chowdhury, Mashrur and Thuraisingham, Bhavani},
+  journal={arXiv preprint arXiv:2610.41055},
   year={2026}
 }
 ```
